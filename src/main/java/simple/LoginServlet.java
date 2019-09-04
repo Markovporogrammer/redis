@@ -16,8 +16,6 @@ public class LoginServlet extends HttpServlet {
     public void service(ServletRequest req, ServletResponse res) throws ServletException, IOException {
 
 
-
-
         HttpServletRequest request = (HttpServletRequest) req;
         HttpServletResponse response = (HttpServletResponse) res;
 
